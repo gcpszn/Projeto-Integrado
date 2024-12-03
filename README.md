@@ -1,6 +1,6 @@
 # Projeto-Integrado
 # Sistema de Gerenciamento de Estoque
-Este é um sistema de gerenciamento de estoque desenvolvido em Python, utilizando Programação Orientada a Objetos (POO). Permite o cadastro de produtos, atualização de estoqus e a geração de relatórios sobre os produtos. Foi projetado para otimizar a gestão de inventário em empresas, principalmente no setor de comércio eletrônico.
+Este é um sistema de gerenciamento de estoque para o portfólio semestral do curso Análise e Desenvolvimento de Sistemas, utilizando Programação Orientada a Objetos (POO) em Python. Permite o cadastro de produtos, atualização de estoque e a geração de relatórios sobre os produtos. Foi projetado para otimizar a gestão de inventário em empresas, principalmente no setor de comércio eletrônico.
 
 Funcionalidades
 Cadastro de Produto: Permite cadastrar novos produtos, definindo código, nome, quantidade inicial, estoque mínimo e máximo.
